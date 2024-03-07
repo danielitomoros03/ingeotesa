@@ -1,2 +1,9 @@
-# ingeotesa
- Ingeotesa's Landing Page
+# Ingeotesa Soluciones, C.A.
+
+Bienvenido al repositorio de la landing page de Ingeotesa!
+
+Este proyecto contiene la página de inicio para la empresa Ingeotesa, una empresa dedicada a la geotecnia, geología, ambiente, hidrogeología, MIM, BIM y Gémelos Digitales. La landing page tiene como objetivo principal captar leads y ads, dar a conocer los servicios en tendencia del mundo de la ingeniería geológica con las últimas tecnologías del mercado.
+
+Si tienes alguna pregunta o necesitas ayuda con este proyecto u otro externos, puedes contactar conmigo a través de https://daniel-moros.web.app/ o https://instagram.com/morossolucionesdigitales/ en RRSS.
+
+Daniel Moros | Desarrollador web y Especialista en Marketing Digital
