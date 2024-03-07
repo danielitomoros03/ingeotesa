@@ -6,5 +6,4 @@ Este proyecto contiene la página de inicio para la empresa Ingeotesa, una empre
 
 Si tienes alguna pregunta o necesitas ayuda con este proyecto u otro externos, puedes contactar conmigo a través de https://daniel-moros.web.app/ o https://instagram.com/morossolucionesdigitales/ en RRSS.
 
-Daniel Moros
-Desarrollador web y Especialista en Marketing Digital
+Daniel Moros | Desarrollador web y Especialista en Marketing Digital
