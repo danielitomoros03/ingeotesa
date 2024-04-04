@@ -1,11 +1,9 @@
-  =>  Template Name    : Builderz - Construction Company Website Template
+# Ingeotesa Soluciones, C.A.
 
-  =>  Template Link    : https://htmlcodex.com/construction-company-website-template
+Bienvenido al repositorio de la landing page de Ingeotesa!
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+Este proyecto contiene la página de inicio para la empresa Ingeotesa, una empresa dedicada a la geotecnia, geología, ambiente, hidrogeología, MIM, BIM y Gémelos Digitales. La landing page tiene como objetivo principal captar leads y ads, dar a conocer los servicios en tendencia del mundo de la ingeniería geológica con las últimas tecnologías del mercado.
 
-  =>  Template Author  : HTML Codex
+Si tienes alguna pregunta o necesitas ayuda con este proyecto u otro externos, puedes contactar conmigo a través de https://daniel-moros.web.app/ o https://instagram.com/morossolucionesdigitales/ en RRSS.
 
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+Daniel Moros | Desarrollador web y Especialista en Marketing Digital
